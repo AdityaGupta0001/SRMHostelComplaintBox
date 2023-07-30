@@ -4,4 +4,3 @@
 
 #Tech Stacks Used: Python, Flask(Backend), HTML, Bootstrap, MongoDB(Database)
 
-#Progress: The login and signup page has been completed (There was a need to switch ideas due to already existing solutions for the previous idea)
